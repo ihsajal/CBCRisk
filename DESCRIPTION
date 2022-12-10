@@ -1,0 +1,12 @@
+Package: cbcrisk
+Type: Package
+Title: Contralateral Breast Cancer Risk Prediction Tool
+Version: 2.0
+Date: 2022-05-13
+Author: Marzana Chowdhury, Ibrahim Hossain Sajal
+Maintainer: Marzana Chowdhury <mchowdhury603@gmail.com>
+Description: Predicts the chance of developing contralateral breast cancer for a woman diagnosed with unilateral breast cancer.
+License: GPL-2
+Depends: R (>= 3.5.0), stats (>= 3.3.0), survival (>= 2.39.2)
+NeedsCompilation: no
+
