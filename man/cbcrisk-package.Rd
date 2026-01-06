@@ -1,5 +1,5 @@
 \name{cbcrisk-package}
-\alias{CBCRisk}
+\alias{cbcisk}
 \docType{package}
 \title{
 \packageTitle{cbcrisk}
